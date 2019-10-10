@@ -1,0 +1,10 @@
+#canvas {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cell {
+  margin: 0.1vw;
+  height: 9vw;
+  width: 9vw;
+}
