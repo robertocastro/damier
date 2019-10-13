@@ -1,3 +1,16 @@
+div#palettes ul {
+  display: flex;
+}
+
+div#palettes ul li {
+  display: flex;
+  margin-right: 50px;
+}
+
+div#palettes ul li div {
+  padding: 10px;
+}
+
 #canvas {
   display: flex;
   flex-wrap: wrap;
